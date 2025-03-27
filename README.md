@@ -1,7 +1,7 @@
 # focus-bot
 An AI-powered robot that detects distraction and provides real-time motivation
 
-# FocusBot: AI-Powered Distraction Management Robot 🤖
+# FocusBot: AI-Powered Distraction Management Robot 
 
 ## 🔍 Overview
 FocusBot is a personal assistant robot designed to help reduce distractions and improve productivity. It uses GPT-4o from OpenAI, with motion detection and voice feedback, to deliver real-time, personalized motivation based on your habits and behavior.
